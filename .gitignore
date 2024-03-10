@@ -1,2 +1,4 @@
 drfcrud/venv
 drfauth/venv
+gptclone/venv
+.env
